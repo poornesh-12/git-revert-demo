@@ -1,3 +1,6 @@
-Hello, world!
+<<<<<<< HEAD
 Adding feature A
+=======
 Adding buggy feature B
+>>>>>>> abc1234
+
