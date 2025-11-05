@@ -1,2 +1,3 @@
 Hello, world!
 Adding feature A
+Adding buggy feature B
