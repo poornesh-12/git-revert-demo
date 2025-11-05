@@ -5,3 +5,4 @@ Adding feature A
 Adding buggy feature B
 
 goodmorning all
+Hello, world!
